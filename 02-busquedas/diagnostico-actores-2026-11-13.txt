@@ -1,0 +1,4 @@
+E. Tecnologia AND precisos          246
+F. Tecnologia AND vagos            2156
+G. Codigo abierto AND vagos         560
+H. CADENA CORREGIDA                1040

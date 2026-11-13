@@ -1,0 +1,16 @@
+"apropiación tecnológica"                                                 525
+"apropiación social de la tecnología"                                      23
+"soberanía tecnológica"                                                   480
+"soberanía digital"                                                        436
+"autonomía tecnológica"                                                   291
+"apropriação tecnológica"                                                215
+"soberania tecnológica"                                                    480
+"autonomia tecnológica"                                                    291
+"technological appropriation"                                               285
+"technological sovereignty"                                                3563
+"digital sovereignty"                                                      3795
+"software libre" AND (comunidad OR cooperativa OR campesino OR indígena)    424
+"software livre" AND (comunidade OR cooperativa OR indígena)               393
+"free software" AND (community OR cooperative OR indigenous)                996
+"redes comunitarias" AND (internet OR conectividad)                          70
+"community networks" AND (Latin America OR indigenous OR rural)              78

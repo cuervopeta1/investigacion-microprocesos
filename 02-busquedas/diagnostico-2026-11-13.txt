@@ -1,0 +1,4 @@
+A. Apropiacion sola                 758
+B. Soberania sola                  1163
+C. Soberania AND actores            126
+D. Tecnologia AND actores          1688
